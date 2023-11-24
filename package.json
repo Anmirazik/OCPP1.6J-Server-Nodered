@@ -1,0 +1,12 @@
+{
+    "name": "ocppserver",
+    "description": "OCPP 1.6 JSON developed using node-red and integrate with thingsboard through MQTT for Data Visualizations",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
