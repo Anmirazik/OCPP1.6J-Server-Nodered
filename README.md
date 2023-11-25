@@ -37,3 +37,21 @@ Below is an example of data output coming from the simulated ocpp charger where 
    "msgId":"8cd21349-c137-418e-aa6e-88d1d0e91d41"
 }
 ```
+
+### How the Integration With Thingsboard Looks Like 
+
+#### Main Dashboard
+
+So below is an overview of how the integration with Thingsboard looks like , just a simple dashboard to see the status of the charger
+
+<img width="838" alt="image" src="https://github.com/Anmirazik/OCPP1.6J-Server-Nodered/assets/113960675/874f855c-705a-45b1-8643-0fba117eda77">
+
+#### Session Dashboard
+
+Below session dashboard shows the amount of energy consumptions for the charger and its individual transaction where it has the amount of power feed into the car and the price of each transaction
+
+<img width="839" alt="image" src="https://github.com/Anmirazik/OCPP1.6J-Server-Nodered/assets/113960675/4be34ecd-66ed-428b-a1a3-7bb56275598f">
+
+
+
+
